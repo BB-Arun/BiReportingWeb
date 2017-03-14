@@ -1,4 +1,5 @@
 #Remember to connect to VPN before running.
+
 require(DBI)
 require(RMySQL)
 require(data.table)
